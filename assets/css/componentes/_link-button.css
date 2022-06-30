@@ -1,8 +1,9 @@
 a.link-button {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     color: white;
+    margin-top: 5px;
 }
 
 a.link-button .icon {
@@ -32,3 +33,4 @@ a.link-button .icon .play-icon {
 a.link-button .label {
     margin-left: 10px;
 }
+
